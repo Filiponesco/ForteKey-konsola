@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516199029 source:e:\dokumenty\code blocks\projekt pianino\pianino.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1516205315 source:e:\dokumenty\studia\i semestr\programowanie\projekt_pianino\pianino.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
